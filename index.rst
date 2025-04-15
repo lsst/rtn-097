@@ -93,16 +93,18 @@ Inclusive.
 * Use language that is simple and kind.
 * Avoid jargon, acronyms, sarcasm, and jokes.
 * Offensive or exclusionary language is never permitted.
-* See the Code of Conduct for additional guidance.
+* See the `Code of Conduct <https://rubinobservatory.org/for-scientists/resources/code-of-conduct>`_ for additional guidance.
 
 Referenced.
 
 * Provide hotlinks to relevant documentation where applicable.
 
+
 Guidelines for providing user support
 -------------------------------------
 
 Practical advice on how to provide user support in a way that is consistent with the goals and principles.
+
 
 For everyone
 ^^^^^^^^^^^^
@@ -160,11 +162,205 @@ Make your Forum account recognizable as Rubin staff by updating your account pre
 
   * The point is to look like an active account.
 
-* Join the LSST group (https://community.lsst.org/g/LSST).
+* Join the `LSST group <https://community.lsst.org/g/LSST>`_.
 
 * Choose "LSST" as your "Title".
 
 * Fill out your profile’s "About Me", timezone, and institute, at minimum.
+
+
+For Community Science team (CST) members
+****************************************
+
+Make your Forum account recognizable as a Rubin CST member.
+
+* Join the `CST group <https://community.lsst.org/g/CST>`_.
+* In account preferences, under "Flair" choose "CST".
+* The helping-hands symbol will appear in the bottom-right corner of your profile picture, identifying you as a CST member.
+
+Most CST members will be moderators.
+
+* Review the `Moderator`_ capabilities.
+
+All CST members will serve in rotation as the weekly Forum Watcher.
+
+* Review the `Forum Watchers`_ responsibilities.
+
+Open tickets in the CST’s Issue Resolution epic in Jira, as needed, for follow-up.
+
+
+For Data Management (DM) team members
+*************************************
+
+Join the LSST `Data Management group <https://community.lsst.org/g/LSSTDM>`.
+
+* Optionally, set "LSST Data Management" as your "Title" under account preferences.
+
+As of writing, the LSSTDM group did not have a "Flair" option.
+If, in the future, the LSSTDM group owners add a flair, feel free to choose it for your account.
+
+Rubin DM staff are welcome to voluntarily serve as `Moderators`_ or `Forum Watchers`_.
+
+If a question or reported issue will take work to resolve, discuss this work with your team lead.
+
+
+For other departments and teams
+*******************************
+
+Join the group relevant to your department or team.
+If a group does not exist, it is OK to create one.
+It is also OK to add a "Flair" for it.
+
+
+For Broker and IDAC team members
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Broker and IDAC teams are welcome to have subcategories under Support, and to provide their own user support via the Forum.
+
+Teams are responsible to monitor their subcategory.
+
+* At least one team representative should set themselves to “watching” the category.
+* Rubin staff will not monitor these subcategories.
+* Team reps should keep in mind the goals, metrics, and principles.
+
+These subcategories should not be used for service announcements.
+
+* Forum users are not advised to ‘watch’ the Support subcategories.
+* Announcements are Topics that will never be solved, and will degrade the metrics.
+* Use the Science Announcements category instead.
+
+It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives of the broker or IDAC team.
+
+
+Moderators
+----------
+
+The Forum group `Moderators <https://community.lsst.org/g/moderators>`_ is composed of CST and DM members, and broker and IDAC team representatives.
+They are identifiable by the shield icon that appears next to their name. 
+
+Moderator accounts have the power to take actions such as:
+
+* editing a topic’s title or category
+* moving a threaded post to a different or new topic
+* marking someone else’s post as a topic solution
+* reviewing posts that were flagged by other users
+* deleting posts, topics, or users that violate the terms of service
+
+
+How to moderate flagged posts.
+
+* Approve flagged posts that seem fine.
+
+  * Keep in mind that the bot-detectors can mistake real people for bots.
+
+  * E.g., posts with "too many links" or that are "written too fast" can trigger the bot-detector.
+
+* Reject flagged posts that are obviously bots, are non-astronomy or advertisements, or are CoC violations.
+
+
+How to move a reply post to a new topic.
+
+* Click the wrench, select "Select Posts", click "Select" on the post(s) to be moved.
+* In the pop-up click "Move To", then fill out the next pop-up and click "Move to a New Topic".
+* Explain to the user what you did and why, reaffirm that it was a good question and that you, as moderator, want to make sure it gets resolved.
+
+
+If you witness harassment, flag (or remove) the inappropriate post.
+
+* Forum admin and moderators will still be able to see it (for reference).
+
+* Depending on the situation, consider:
+
+  * reaching out to the receiver and offering support
+
+  * referring them to Rubin's Workplace Culture Advocates
+
+  * raising the issue to the CST
+
+  * asking for assistance in addressing the issue
+
+
+For more guidance on Forum moderation:
+
+* `Discourse platform advice on flags <https://meta.discourse.org/t/discourse-moderation-guide/63116#handling-flags-17>`_
+* `How to be a forum moderator <https://community.lsst.org/t/how-to-be-a-forum-moderator/4700>`_
+* `How and why to flag a post <https://community.lsst.org/t/how-and-why-to-flag-a-post/4699>`_
+
+
+Forum Watchers
+--------------
+
+Every week, one member of the Rubin Community Science team is the designated Forum Watcher.
+In addition to the principles and best practices above, Forum Watchers have extra responsibilities.
+
+Enable real-time notifications.
+
+* E.g., via web browser or email.
+
+
+Rapidly review and approve posts from new Forum users.
+
+* To avoid AI bots, posts from new users need approval.
+* Aim for same-day approvals (within hours during your local workday).
+* For background see `New user permissions and availability of posts <https://community.lsst.org/t/new-user-permissions-and-availability-of-posts/9357>`_.
+
+
+Moderate the Forum by flagging posts and dealing with flags.
+
+* As described in `Moderators`_.
+
+
+Keep an eye out for new questions posted in old or solved topics.
+
+* If you can answer it right away, just do so.
+* If not, move the reply to a new topic thread (see `Moderators`_).
+
+
+Review all new Support topics and take a swift initial action.
+
+* This "initial action" will depend on the question and your own expertise.
+* Aim for an initial response within 24 hours.
+* Provide answers if you already know them, or can find them quickly.
+* Try to reproduce the user’s issue yourself.
+* Ask for clarification and encourage users to post code and error messages.
+* Try to figure out the solution, or proceed to triage (below).
+
+
+Triage more complicated Support topics for follow-up.
+
+* Reach out to other Rubin staff for technical assistance.
+
+* Open new Jira tickets in the CST Issue Resolution epic when follow-up work is needed.
+
+  * Follow the CST internal workflows for issue resolution and Jira use.
+
+* Avoid short reply posts like *"We’re looking into it"*, as they don’t provide a timescale to set expectations and it can shut down further input from other Forum users.
+
+* Instead use reply posts like *"We’ve opened an internal work ticket (<link SP ticket>) to follow up on this issue and we’ll report back within <timeframe>. In the meantime, all are welcome to chime in with ideas here"*.
+
+
+Review unsolved Support topics from the past two months.
+
+* If a clear solution has been posted but not marked, mark it.
+
+* If a *potential* solution has been posted and not marked, encourage the user to report back whether the issue is resolved.
+
+  * (Do not do this if the last post in the thread is already doing that.)
+
+* If work is proceeding in a corresponding Jira ticket, it’s OK to do nothing.
+
+* Otherwise, review and triage the topic as if it were new.
+
+  * Ensure there is a Jira ticket for unsolved topics.
+
+
+Be prepared to report in the weekly CST meeting.
+
+* Raise questions and challenges for team discussion.
+* CST will review progress on Jira tickets in the Issue Resolution epic.
+
+
+
 
 
 
