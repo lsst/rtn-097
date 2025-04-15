@@ -178,13 +178,16 @@ Make your Forum account recognizable as a Rubin CST member.
 * In account preferences, under "Flair" choose "CST".
 * The helping-hands symbol will appear in the bottom-right corner of your profile picture, identifying you as a CST member.
 
+
 Most CST members will be moderators.
 
-* Review the `Moderator`_ capabilities.
+* Review the capabilities of `Moderators`_.
+
 
 All CST members will serve in rotation as the weekly Forum Watcher.
 
 * Review the `Forum Watchers`_ responsibilities.
+
 
 Open tickets in the CST’s Issue Resolution epic in Jira, as needed, for follow-up.
 
@@ -360,9 +363,21 @@ Be prepared to report in the weekly CST meeting.
 * CST will review progress on Jira tickets in the Issue Resolution epic.
 
 
+Providing confidential support
+------------------------------
 
+Rare situations in which a support topic might publicly reveal critical details of a work in progress might need confidential support.
 
+First, advise the user to try anonymizing their question when they post, using one of these methods.
 
+* Recreate the error with an object that is not of interest.
+* Describe the issue without quoting object or visit identifier numbers.
+
+Alternatively, if it is not possible for the user to describe the issue without the risk of revealing critical details, they should send a direct (private) message to the Lead and Deputy Lead Community Scientists, Melissa Graham (@MelissaGraham) and Jeff Carlin (@jeffcarlin), who will follow-up confidentially.
+
+For more guidance on confidential support:
+
+* `How to ask a question confidentially <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200>`_
 
 
 News and announcements
