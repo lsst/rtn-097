@@ -485,3 +485,31 @@ Recommendations for Science Collaborations Chairs
 In order to help Science Collaboration chairs make the best use of the Forum, the Rubin Community Science team has prepared a set of optional recommendations in the Forum topic `How to use the Forum as Science Collaboration chair <https://community.lsst.org/t/how-to-use-the-forum-as-science-collaboration-chair/8420>`_.
 
 
+
+Terminology
+===========
+
+Banner: The main landing page of the Rubin Community Forum has an expandable banner (header) with instructions.
+
+Categories: High-level themes to organize topics. Only Rubin staff can create new categories.
+
+Topics: A topic thread starts with a single post, which other Forum users can reply to.
+Topics are stored in categories.
+All logged-in Forum users can create new topics and post replies in the thread.
+
+Tags: A topic can have any number of tags, or none.
+Tags are useful as a secondary means of organization (after categories).
+
+Profile: The attributes of a user's account, such as username, profile picture, and notification settings.
+To edit profile preferences click on your profile picture in the circle at upper right, then the person icon, then on “Preferences”.
+Alternatively: ``community.lsst.org/u/<username>/preferences/account``.
+
+Groups: Groups identify Rubin staff teams, committees, and Science Collaborations.
+Some categories are only visible to members of certain groups.
+Some groups allow themselves to be @-mentioned or messaged.
+
+Private (direct) messages: To access messages, click on your profile picture at upper right, then the envelope icon to see a list of recent messages.
+Click on the envelope icon again to go to your inbox.
+Alternatively: ``community.lsst.org/u/<username>/messages``.
+
+Watch / subscribe: a setting that enables users to get notifications (in-browser or via email) for all new topics in a given category.
