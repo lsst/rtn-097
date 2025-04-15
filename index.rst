@@ -18,7 +18,7 @@ Anyone may ask a question about the Rubin Observatory’s data products, service
 
 A traditional, closed help desk won’t scale well to the anticipated 10000 scientists and students.
 This open platform enables self-help (i.e., users can search for similar questions) and crowd-source solutions (anyone may chime in with answers), while also providing the capabilities for Rubin staff to moderate posts and follow-up on unsolved issues.
-The secondary use cases of the Forum are dispersing `News and annoucements`_ and enabling `Scientific discussions`_.
+The secondary use cases of the Forum are dispersing `News and announcements`_ and enabling `Scientific discussions`_.
 
 This document contains guidance and best practices for anyone providing support via the Forum.
 This applies mainly to Rubin staff, but also representatives of broker and IDAC teams using designated Support sub-categories for their user support.
