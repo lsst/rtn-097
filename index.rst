@@ -6,18 +6,19 @@ Guidelines for User Support with the Rubin Community Forum
 
    Guidelines for using the Rubin Community Forum to support the scientific community in their use of the data products, services, and tools created by the Rubin Observatory (or by other groups, e.g., brokers, independent data access centers). This primarily includes guidelines for answering users' questions and resolving issues, but also for posting Rubin-related news and announcements, enabling science discussions and collaboration, and settings to make accounts identifiable as Rubin staff.
 
+
 Overview
 ========
 
 The Rubin Community Forum (hereafter, the Forum) is based on the Discourse platform and can be found at the URL community.lsst.org.
 Much of its content is publicly visible, and anyone may make an account and make posts (i.e., Rubin data rights are not required).
 
-**The Forum’s primary use case is user support.**
+**The Forum’s primary use case is `User support`_.**
 Anyone may ask a question about the Rubin Observatory’s data products, services, and tools; the Support category is dedicated to questions from users.
 
 A traditional, closed help desk won’t scale well to the anticipated 10000 scientists and students.
 This open platform enables self-help (i.e., users can search for similar questions) and crowd-source solutions (anyone may chime in with answers), while also providing the capabilities for Rubin staff to moderate posts and follow-up on unsolved issues.
-The secondary use cases of the Forum are dispersing information on news, events, and opportunities, and enabling scientific discussion and collaboration.
+The secondary use cases of the Forum are dispersing `News and annoucements`_ and enabling `Scientific discussions`_.
 
 This document contains guidance and best practices for anyone providing support via the Forum.
 This applies mainly to Rubin staff, but also representatives of broker and IDAC teams using designated Support sub-categories for their user support.
@@ -25,10 +26,12 @@ Members of the broader Rubin community do not need to read or follow this guidan
 
 This technical note supersedes the Interim Model for Community Support in `DMTN-155 <https://dmtn-155.lsst.io/>`_, and provides additional, practical details on the Model for Community Support in `RTN-006 <https://rtn-006.lsst.io/>`_.
 
+
 User support
 ============
 
 Answering users questions and resolving reported issues is the primary function of the Forum.
+
 
 The Support category
 --------------------
@@ -383,7 +386,102 @@ For more guidance on confidential support:
 News and announcements
 ======================
 
+Dispersing information such as news, announcements, events, and opportunities is a secondary function of the Forum.
+
+The Forum banner advises users to "watch" two categories in order to stay informed: the News and Science Announcements categories.
+
+
+The News category
+-----------------
+
+All major news for scientists from Rubin Observatory should go in the News category.
+
+* The biweekly Rubin Digest.
+* Major conferences and workshops.
+* Commissioning updates.
+* Major data and software releases.
+* Anticipated service disruptions (in the Data Services subcategory).
+
+To keep the rate of new topics to a few per week or less, only members of the Rubin News Editors group may create new topics in this category.
+
+
+The Science Announcements category
+----------------------------------
+
+Anyone may make a new topic in this category to advertise Rubin-related events.
+
+* Meetings and seminars.
+* Conferences and workshops not run by Rubin staff.
+* Data or software releases from non-staff developers.
+
+Advice for everyone is provided in `How to advertise in the Forum <https://community.lsst.org/t/how-to-advertise-in-the-forum/8196>`_.
+
+
+Tips for effective advertising
+------------------------------
+
+Create a new topic for every new announcement.
+
+* This will prompt notifications for users “tracking” the category.
+* This provides a new thread for comments, questions, etc.
+
+Include the time, date, and year in the topic title.
+
+* To distinguish topics for recurring events (e.g., annual workshops, data releases).
+* This applies also to deadlines.
+
+Safeguard against Zoom-bombing.
+
+* All topics are publicly visible.
+* Do not do not post Zoom links in the body of the topic.
+* Consider, e.g., a Google form with an automatic email reply with the link.
+
+Post notes and recordings as replies in the thread.
+
+* Paste a YouTube link on a new line and the video will automatically embed.
 
 
 Scientific discussions
 ======================
+
+Open discussion and collaboration on any and all topics related to Rubin science is a secondary function of the Forum.
+
+
+The Science category
+--------------------
+
+This category and its subcategories are open for anyone to post new topics for discussion.
+
+There are no guidelines regarding the types of topics that are posted – it is completely left to the broader Rubin community to use these categories however they want.
+
+These categories are not monitored by Rubin staff and do not have the "marked solution" functionality enabled.
+
+
+Time-domain research announcements
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Forum users may propose to use the Discourse API in a sub-category to auto-generate new topics for time-domain phenomena.
+This enables the Forum to be used for public, worldwide discussions about time sensitive follow-up.
+
+New APIs are first implemented on a year-long trial basis to confirm that the number of auto generated new topics is on order a few per day or less (any more is too many for human interaction, which means the Forum is the wrong tool).
+Such APIs must be muted from the Forum landing page feed, and it is recommended to restrict access to a group (i.e., users must opt-in to seeing the announcements), but the group itself can be openly joinable.
+
+The Forum admins (Rubin staff) retain the right to restrict or remove such API-based functionality if it interferes with users’ ability to obtain support or news.
+
+
+The Science Collaborations category
+-----------------------------------
+
+This category and its subcategories are accessible only by Forum users who have joined one of the groups associated with an LSST Science Collaboration.
+
+They are completely left to the Science Collaborations to use however they want.
+
+They are not monitored by Rubin staff and do not have the "marked solution" functionality enabled.
+
+
+Recommendations for Science Collaborations Chairs
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+In order to help Science Collaboration chairs make the best use of the Forum, the Rubin Community Science team has prepared a set of optional recommendations in the Forum topic `How to use the Forum as Science Collaboration chair <https://community.lsst.org/t/how-to-use-the-forum-as-science-collaboration-chair/8420>`_.
+
+
