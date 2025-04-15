@@ -110,19 +110,19 @@ For everyone
 Encourage use of the Forum.
 * Direct users to the Support category.
 * Reassure them that all questions are appropriate and welcomed.
-    * E.g., *"This is a great question, could you post it as a new topic in the Support category of the Rubin Community Forum at community.lsst.org? We’ll follow-up on it there."*
+  * E.g., *"This is a great question, could you post it as a new topic in the Support category of the Rubin Community Forum at community.lsst.org? We’ll follow-up on it there."*
 
 Provide validated examples that can be marked as the solution.
 * Guesses or potential answers cannot be marked as a solution, and are not preferred.
-    * E.g., *"You might want to look in the lsst geom or afw packages" is not preferred.
+  * E.g., *"You might want to look in the lsst geom or afw packages" is not preferred.
 * An answer that has been tested and confirmed to work can be marked as the solution by the support provider when it is posted; this is much preferred.
-    * E.g., *"Here is some example code that imports the lsst.geom package and uses the radToDeg function to ..."* (followed by copy-pastable code block) is preferred.
+  * E.g., *"Here is some example code that imports the lsst.geom package and uses the radToDeg function to ..."* (followed by copy-pastable code block) is preferred.
 
 Coordinate responses offline and follow up later, when needed.
 * Full, validated solutions can take time and collaboration to develop; that’s OK.
 * Avoid @-mentions in the thread to people who “might know”.
 * Provide an expected timeline without shutting down further conversation:
-    * E.g., *"Myself and the <team> team will work on a solution and report back within a week. In the meantime others are encouraged to chime in on this thread."*
+  * E.g., *"Myself and the <team> team will work on a solution and report back within a week. In the meantime others are encouraged to chime in on this thread."*
 
 Be familiar with the Forum’s functionality.
 * Review the banner instructions and the topics tagged with "forum-howto".
