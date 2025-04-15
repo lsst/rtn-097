@@ -13,7 +13,7 @@ Overview
 The Rubin Community Forum (hereafter, the Forum) is based on the Discourse platform and can be found at the URL community.lsst.org.
 Much of its content is publicly visible, and anyone may make an account and make posts (i.e., Rubin data rights are not required).
 
-**The Forum’s primary use case is `User support`_.**
+**The Forum’s primary use case is** `User support`_.
 Anyone may ask a question about the Rubin Observatory’s data products, services, and tools; the Support category is dedicated to questions from users.
 
 A traditional, closed help desk won’t scale well to the anticipated 10000 scientists and students.
