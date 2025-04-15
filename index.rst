@@ -20,7 +20,7 @@ A traditional, closed help desk won’t scale well to the anticipated 10000 scie
 This open platform enables self-help (i.e., users can search for similar questions) and crowd-source solutions (anyone may chime in with answers), while also providing the capabilities for Rubin staff to moderate posts and follow-up on unsolved issues.
 The secondary use cases of the Forum are dispersing `News and announcements`_ and enabling `Scientific discussions`_.
 
-This document contains guidance and best practices for anyone providing support via the Forum.
+This document contains guidance for everyone providing user support via the Forum.
 This applies mainly to Rubin staff, but also representatives of broker and IDAC teams using designated Support sub-categories for their user support.
 Members of the broader Rubin community do not need to read or follow this guidance when posting in the Forum.
 
@@ -366,8 +366,8 @@ Be prepared to report in the weekly CST meeting.
 * CST will review progress on Jira tickets in the Issue Resolution epic.
 
 
-Providing confidential support
-------------------------------
+Confidential support
+--------------------
 
 Rare situations in which a support topic might publicly reveal critical details of a work in progress might need confidential support.
 
