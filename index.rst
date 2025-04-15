@@ -120,7 +120,8 @@ Provide validated examples that can be marked as the solution.
 
 * Guesses or potential answers cannot be marked as a solution, and are not preferred.
 
-  * E.g., *"You might want to look in the lsst geom or afw packages" is not preferred.
+  * E.g., *"You might want to look in the lsst geom or afw packages"* is not preferred.
+
 * An answer that has been tested and confirmed to work can be marked as the solution by the support provider when it is posted; this is much preferred.
 
   * E.g., *"Here is some example code that imports the lsst.geom package and uses the radToDeg function to ..."* (followed by copy-pastable code block) is preferred.
@@ -142,6 +143,29 @@ Be familiar with the Forum’s functionality.
 * Review the banner instructions and the topics tagged with "forum-howto".
 
 * E.g., how to mark solutions, format code and math, and flag posts.
+
+
+For Rubin staff
+^^^^^^^^^^^^^^^
+
+Make your Forum account recognizable as Rubin staff by updating your account preferences.
+
+* Adopt a username and name that are recognizable as you.
+
+  * E.g., "MelissaG" is preferred to "CookiesForever3000" or "mlg".
+
+* Change your profile picture from the default.
+
+  * It need not be a picture of you.
+
+  * The point is to look like an active account.
+
+* Join the LSST group (https://community.lsst.org/g/LSST).
+
+* Choose "LSST" as your "Title".
+
+* Fill out your profile’s "About Me", timezone, and institute, at minimum.
+
 
 
 
