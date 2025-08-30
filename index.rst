@@ -52,8 +52,8 @@ This category is monitored by the Rubin Community Science team who follow up on 
 The broker and IDAC subcategories are monitored by members of the relevant teams.
 
 
-Goals, metrics, and principles for user support
------------------------------------------------
+Goals, metrics, and principles
+------------------------------
 
 In providing support to users via the Forum, there are two goals:
 
@@ -103,8 +103,8 @@ Referenced.
 * Provide hotlinks to relevant documentation where applicable.
 
 
-Guidelines for providing user support
--------------------------------------
+Guidelines for user support
+---------------------------
 
 Practical advice on how to provide user support in a way that is consistent with the goals and principles.
 
