@@ -134,8 +134,6 @@ Provide validated examples that can be marked as the solution.
 
 Coordinate responses offline and follow up later, when needed.
 
-* Use the Rubin Observatory Slack channel ``#sp-cst-forum-support`` to coordinate responses.
-
 * Full, validated solutions can take time and collaboration to develop; that’s OK.
 
 * Avoid @-mentions in the Forum thread to people who “might know”.
@@ -176,15 +174,17 @@ Make your Forum account recognizable as Rubin staff by updating your account pre
 
   * The point is to look like an active account.
 
-* Join the `LSST group <https://community.lsst.org/g/LSST>`_.
+* Join the `LSST group <https://community.lsst.org/g/LSST>`_ and choose "LSST" as your "Title".
 
-* Choose "LSST" as your "Title".
+  * Or join the group relevant to your department or team.
+
+  * It is OK to create new staff groups and add "Flair".
 
 * Fill out your profile’s "About Me", timezone, and institute, at minimum.
 
 
-For Community Science team (CST) members
-****************************************
+CST
+***
 
 Make your Forum account recognizable as a Rubin CST member.
 
@@ -206,8 +206,8 @@ All CST members will serve in rotation as the weekly Forum Watcher.
 Open tickets in the CST’s Issue Resolution epic in Jira, as needed, for follow-up.
 
 
-For Data Management (DM) team members
-*************************************
+DM
+**
 
 Join the LSST `Data Management group <https://community.lsst.org/g/LSSTDM>`_.
 
@@ -221,16 +221,8 @@ Rubin DM staff are welcome to voluntarily serve as `Moderators`_ or `Forum Watch
 If a question or reported issue will take work to resolve, discuss this work with your team lead.
 
 
-For other departments and teams
-*******************************
-
-Join the group relevant to your department or team.
-If a group does not exist, it is OK to create one.
-It is also OK to add a "Flair" for it.
-
-
-For Broker and IDAC team members
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+For brokers and IDACs
+^^^^^^^^^^^^^^^^^^^^^
 
 Broker and IDAC teams are welcome to have subcategories under Support, and to provide their own user support via the Forum.
 
@@ -249,8 +241,13 @@ These subcategories should not be used for service announcements.
 It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives of the broker or IDAC team.
 
 
+Roles and responsibilities
+--------------------------
+
+Rubin staff accounts can have special roles, which come with special responsibilities and powers.
+
 Admins
-------
+^^^^^^
 
 The Forum group `Admins <https://community.lsst.org/g/admins>`_ is composed of Jonathan Sick, Frossie Economou, and Melissa Graham.
 They are identifiable by the double-shield icons that appear next to their name.
@@ -260,7 +257,7 @@ Admins can edit user account profiles, merge duplicate accounts, and silence and
 
 
 Silencing and suspension
-^^^^^^^^^^^^^^^^^^^^^^^^
+************************
 
 The Lead Community Scientist is the single point of contact on all cases where users might need to be silenced or suspended.
 
@@ -290,7 +287,7 @@ Suspensions are permanent.
 
 
 Moderators
-----------
+^^^^^^^^^^
 
 The Forum group `Moderators <https://community.lsst.org/g/moderators>`_ is composed of CST and DM members, and broker and IDAC team representatives.
 They are identifiable by the shield icon that appears next to their name. 
@@ -352,7 +349,7 @@ If you think a user needs to be silenced or suspended, raise the issue with the 
 
 
 Forum Watchers
---------------
+^^^^^^^^^^^^^^
 
 Every week, one member of the Rubin Community Science team is the designated Forum Watcher.
 In addition to the principles and best practices above, Forum Watchers have extra responsibilities.
