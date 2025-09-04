@@ -159,11 +159,11 @@ Join the Rubin Observatory Slack channel ``#sp-cst-forum-support``.
 
 * Use a threaded discussion to ask questions, coordinate responses, and at-mention other staff.
 
-* Avoid starting new threads in other Slack channels for topics, to keep discussion centralized.
+* To solicit other Rubin staff to join the discussion, post a link to the Slack thread in other channels.
 
-  * OK to post link to the Slack *thread* in other channels to encourage others to join that discussion.
+  * Avoid starting new threads in other Slack channels that link only to the Forum topic, and not to the Slack post.
 
-  * If new Slack threads start, link to them from the ``#sp-cst-forum-support`` so Forum Watchers can find it.
+  * If new Slack threads start, link to them from the ``#sp-cst-forum-support`` so Forum Watchers can find the discussion.
 
 
 Make your Forum account recognizable as Rubin staff by updating your account preferences.
