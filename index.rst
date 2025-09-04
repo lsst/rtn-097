@@ -161,6 +161,10 @@ Join the Rubin Observatory Slack channel ``#sp-cst-forum-support``.
 
 * Avoid starting new threads in other Slack channels for topics, to keep discussion centralized.
 
+  * OK to post link to the Slack *thread* in other channels to encourage others to join that discussion.
+
+  * If new Slack threads start, link to them from the ``#sp-cst-forum-support`` so Forum Watchers can find it.
+
 
 Make your Forum account recognizable as Rubin staff by updating your account preferences.
 
@@ -266,9 +270,9 @@ A silenced user can log in, but cannot post new topics or replies (although they
 
 A user will be silenced if their posts are repeatedly flagged or reported for violating the Forum's `Community Guidelines <https://community.lsst.org/faq>`_, and the Lead Community Scientist issues a warning via private message that if this behavior continues they will be silenced, and the behavior continues anyway.
 
-Note that the guidenlines do apply to Forum users who make multiple posts that:
+There is some grey area in interpreting the guidelines, but "Improving the Discussion" and "Keep it Tidy" applies to posts that:
 
-* are excessively long and rambing (e.g., opinion pieces)
+* are excessively long and rambling (e.g., opinion pieces)
 * do not ask a question, or repeatedly ask the same question
 * are not Rubin-related (e.g., expound on general astronomy theories)
 * repeatedly or excessively at-mention other users
@@ -280,7 +284,7 @@ Silenced users should be unsilenced after two weeks (provided the violations do 
 **Suspension:**
 A suspended user will be unable to log in.
 
-A user will be suspended if, after silencing, the negative behaviour continues, the Lead Community Scientist issues another warning via private message that if this behavior continues they will be suspended, and the behaviour continues anyway.
+A user will be suspended if, after silencing, the negative behavior continues, the Lead Community Scientist issues another warning via private message that if this behavior continues they will be suspended, and the behavior continues anyway.
 
 Suspensions are permanent.
 
