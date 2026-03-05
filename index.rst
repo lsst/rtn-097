@@ -153,7 +153,7 @@ Be familiar with the Forum’s functionality.
 For Rubin staff
 ^^^^^^^^^^^^^^^
 
-Join the Rubin Observatory Slack channel ``#sp-cst-forum-support``.
+Join the Rubin Observatory Slack channel ``#community-forum-support``.
 
 * All new Support category topics have a Slack post there, via the Forum Bot.
 
@@ -163,7 +163,7 @@ Join the Rubin Observatory Slack channel ``#sp-cst-forum-support``.
 
   * Avoid starting new threads in other Slack channels that link only to the Forum topic, and not to the Slack post.
 
-  * If new Slack threads start, link to them from the ``#sp-cst-forum-support`` so Forum Watchers can find the discussion.
+  * If new Slack threads start, link to them from the ``#community-forum-support`` so Forum Watchers can find the discussion.
 
 
 Make your Forum account recognizable as Rubin staff by updating your account preferences.
@@ -414,7 +414,7 @@ Review unsolved Support topics from the past month.
 
 * If work is proceeding in a corresponding Jira ticket, it’s OK to do nothing.
 
-* Check the relevant thread in the Slack channel ``#sp-cst-forum-support``.
+* Check the relevant thread in the Slack channel ``#community-forum-support``.
 
   * There may be a reason why this topic is being left unsolved.
 
