@@ -331,7 +331,8 @@ How to moderate flagged posts.
 
 How to move a reply post to a new topic.
 
-* Click the wrench to the right of the post, select "Select Posts", click "Select" on the post(s) to be moved.
+* Click the wrench that floats at top right of the topic thread.
+* Click "Select Posts", then on the pop-up "Select" buttons that appear on the post(s) to be moved.
 * In the pop-up click "Move To", then fill out the next pop-up and click "Move to a New Topic".
 * Explain to the user what you did and why, reaffirm that it was a good question and that you, as moderator, want to make sure it gets resolved.
 
