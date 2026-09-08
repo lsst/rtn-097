@@ -254,7 +254,7 @@ Rubin staff accounts can have special roles, which come with special responsibil
 Admins
 ^^^^^^
 
-The Forum group `Admins <https://community.lsst.org/g/admins>`_ is composed of Jonathan Sick, Frossie Economou, and Melissa Graham.
+The Forum `Admins group <https://community.lsst.org/g/admins>`__ is composed of Jonathan Sick, Frossie Economou, and Melissa Graham.
 They are identifiable by the double-shield icons that appear next to their name.
 
 Admins have the power to edit the Forum's structure, layout, categories, banners, and so on.
