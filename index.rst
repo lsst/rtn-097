@@ -241,7 +241,7 @@ Teams are responsible to monitor their Support subcategory.
 
 * Forum users are not advised to "watch" the Support subcategories.
 * Announcements are Topics that will never be solved, and will degrade the metrics.
-* Use the Science Announcements category instead (e.g., the Lasiar Blog subcategory).
+* Use the Science Announcements category instead (e.g., the Lasair Blog subcategory).
 
 It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives of the broker or IDAC team.
 
