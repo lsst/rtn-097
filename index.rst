@@ -8,7 +8,8 @@ Guidelines for User Support with the Rubin Community Forum
 
 
 .. sectnum::
-
+   :depth: 3
+   :start: 1
 
 Overview
 ========
@@ -331,6 +332,13 @@ How to moderate flagged posts.
 * Reject flagged posts that are in violation of the Forum's `Community Guidelines <https://community.lsst.org/faq>`_.
 
 * If unsure, ask about it in Slack.
+
+
+How to change a topic's category or title.
+
+* Click on the pencil icon next to the topic title.
+* Edit the title, category, or tag and click the green check icon.
+* Add a reply post to the topic explaining to the user what you, as moderator, changed and why.
 
 
 How to move a reply post to a new topic.
