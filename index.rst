@@ -230,7 +230,7 @@ For brokers and IDACs
 
 Broker and IDAC teams are welcome to have subcategories under Support, and to provide their own user support via the Forum.
 
-Teams are responsible to monitor their subcategory.
+Teams are responsible to monitor their Support subcategory.
 
 * At least one team representative should set themselves to "watching" the category.
 * Rubin staff will not monitor these subcategories.
