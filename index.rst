@@ -7,6 +7,9 @@ Guidelines for User Support with the Rubin Community Forum
    Guidelines for using the Rubin Community Forum to support the scientific community in their use of the data products, services, and tools created by the Rubin Observatory (or by other groups, e.g., brokers, independent data access centers). This primarily includes guidelines for answering users' questions and resolving issues, but also for posting Rubin-related news and announcements, enabling science discussions and collaboration, and settings to make accounts identifiable as Rubin staff.
 
 
+.. sectnum::
+
+
 Overview
 ========
 
@@ -254,7 +257,7 @@ Rubin staff accounts can have special roles, which come with special responsibil
 Admins
 ^^^^^^
 
-The Forum `Admins group <https://community.lsst.org/g/admins>`__ is composed of Jonathan Sick, Frossie Economou, and Melissa Graham.
+The Forum's `Admins group <https://community.lsst.org/g/admins>`__ is composed of Jonathan Sick, Frossie Economou, and Melissa Graham.
 They are identifiable by the double-shield icons that appear next to their name.
 
 Admins have the power to edit the Forum's structure, layout, categories, banners, and so on.
