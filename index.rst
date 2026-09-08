@@ -9,7 +9,7 @@ Guidelines for User Support with the Rubin Community Forum
 
 .. sectnum::
    :depth: 3
-   :start: 1
+   :start: 0
 
 Overview
 ========
