@@ -230,18 +230,19 @@ For brokers and IDACs
 
 Broker and IDAC teams are welcome to have subcategories under Support, and to provide their own user support via the Forum.
 
-Teams are responsible to monitor their Support subcategory.
+Broker and IDAC teams are responsible to monitor their Support subcategory.
 
 * At least one team representative should set themselves to "watching" the category.
 * Rubin staff will not monitor these subcategories.
 * Team reps should keep in mind the goals, metrics, and principles.
 * New topics should get a first response in 24 hours and all topics should get a solution.
 
-**These subcategories should not be used for service announcements.**
+**The broker and IDAC Support subcategories should not be used for service announcements.**
 
-* Forum users are not advised to "watch" the Support subcategories.
-* Announcements are Topics that will never be solved, and will degrade the metrics.
-* Use the Science Announcements category instead (e.g., the Lasair Blog subcategory).
+* Announcements in Support are topics that will never be solved, and so will degrade the metrics.
+* Forum users are not advised to "watch" the Support subcategories (like they are for, e.g., News).
+* Teams may request a new subcategory in Science for service announcements (see, e.g., the `Lasair Blog <https://community.lsst.org/c/sci/lasair-blog/67>`__).
+* Teams may use the Science Announcements subcategory to advertise their services.
 
 It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives of the broker or IDAC team.
 
