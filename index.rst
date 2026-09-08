@@ -230,17 +230,19 @@ For brokers and IDACs
 
 Broker and IDAC teams are welcome to have subcategories under Support, and to provide their own user support via the Forum.
 
-Teams are responsible to monitor their subcategory.
+Broker and IDAC teams are responsible to monitor their Support subcategory.
 
-* At least one team representative should set themselves to “watching” the category.
+* At least one team representative should set themselves to "watching" the category.
 * Rubin staff will not monitor these subcategories.
 * Team reps should keep in mind the goals, metrics, and principles.
+* New topics should get a first response in 24 hours and all topics should get a solution.
 
-These subcategories should not be used for service announcements.
+**The broker and IDAC Support subcategories should not be used for service announcements.**
 
-* Forum users are not advised to ‘watch’ the Support subcategories.
-* Announcements are Topics that will never be solved, and will degrade the metrics.
-* Use the Science Announcements category instead.
+* Announcements in Support are topics that will never be solved, and so will degrade the metrics.
+* Forum users are not advised to "watch" the Support subcategories (like they are for, e.g., News).
+* Teams may request a new subcategory in Science for service announcements (see, e.g., the `Lasair Blog <https://community.lsst.org/c/sci/lasair-blog/67>`__).
+* Teams may use the Science Announcements subcategory to advertise their services.
 
 It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives of the broker or IDAC team.
 
@@ -253,7 +255,7 @@ Rubin staff accounts can have special roles, which come with special responsibil
 Admins
 ^^^^^^
 
-The Forum group `Admins <https://community.lsst.org/g/admins>`_ is composed of Jonathan Sick, Frossie Economou, and Melissa Graham.
+The Forum's `Admins group <https://community.lsst.org/g/admins>`__ is composed of Jonathan Sick, Frossie Economou, and Melissa Graham.
 They are identifiable by the double-shield icons that appear next to their name.
 
 Admins have the power to edit the Forum's structure, layout, categories, banners, and so on.
@@ -293,7 +295,7 @@ Suspensions are permanent.
 Moderators
 ^^^^^^^^^^
 
-The Forum group `Moderators <https://community.lsst.org/g/moderators>`_ is composed of CST and DM members, and broker and IDAC team representatives.
+The Forum's `Moderators group <https://community.lsst.org/g/moderators>`__ is composed of CST and DM members, and broker and IDAC team representatives.
 They are identifiable by the shield icon that appears next to their name. 
 
 Moderator accounts have the power to take actions such as:
@@ -327,6 +329,13 @@ How to moderate flagged posts.
 * Reject flagged posts that are in violation of the Forum's `Community Guidelines <https://community.lsst.org/faq>`_.
 
 * If unsure, ask about it in Slack.
+
+
+How to change a topic's category or title.
+
+* Click on the pencil icon next to the topic title.
+* Edit the title, category, or tag and click the green check icon.
+* Add a reply post to the topic explaining to the user what you, as moderator, changed and why.
 
 
 How to move a reply post to a new topic.
@@ -382,7 +391,7 @@ Keep an eye out for new questions posted in old or solved topics.
 * If not, move the reply to a new topic thread (see `Moderators`_).
 
 
-Review all new Support topics and take a swift initial action.
+Review all new Support topics (except those in the broker or IDAC subcategories) and take a swift initial action.
 
 * This "initial action" will depend on the question and your own expertise.
 * Aim for an initial response within 24 hours.
@@ -422,6 +431,8 @@ Review unsolved Support topics from the past month.
 * Otherwise, review and triage the topic as if it were new.
 
   * Ensure there is a Jira ticket for unsolved topics.
+
+  * If in a broker/IDAC subcategory, bring the topic to the CST Lead's attention.
 
 
 Be prepared to report in the weekly CST meeting.
