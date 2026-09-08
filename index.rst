@@ -7,10 +7,6 @@ Guidelines for User Support with the Rubin Community Forum
    Guidelines for using the Rubin Community Forum to support the scientific community in their use of the data products, services, and tools created by the Rubin Observatory (or by other groups, e.g., brokers, independent data access centers). This primarily includes guidelines for answering users' questions and resolving issues, but also for posting Rubin-related news and announcements, enabling science discussions and collaboration, and settings to make accounts identifiable as Rubin staff.
 
 
-.. sectnum::
-   :depth: 3
-   :start: 0
-
 Overview
 ========
 
