@@ -197,7 +197,7 @@ Make your Forum account recognizable as a Rubin CST member.
 
 Most CST members will be moderators.
 
-* Review the capabilities of `Moderators`_.
+* Review the capabilities of `Category moderators`_.
 
 
 All CST members will serve in rotation as the weekly Forum Watcher.
@@ -218,7 +218,7 @@ Join the LSST `Data Management group <https://www.rubin.community/g/LSSTDM>`_.
 As of writing, the LSSTDM group did not have a "Flair" option.
 If, in the future, the LSSTDM group owners add a flair, feel free to choose it for your account.
 
-Rubin DM staff are welcome to voluntarily serve as `Moderators`_ or `Forum Watchers`_.
+Rubin DM staff are welcome to voluntarily serve as `Category moderators`_ or `Forum Watchers`_.
 
 If a question or reported issue will take work to resolve, discuss this work with your team lead.
 
@@ -252,8 +252,8 @@ Rubin staff accounts can have special roles, which come with special responsibil
 
 All members of the Admin and Moderators groups, plus any other groups granted Category Moderator permissions, have the shield icon appear next to their name.
 
-Admins and Moderators
-^^^^^^^^^^^^^^^^^^^^^
+Administrators and moderators
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Forum's `Admins group <https://www.rubin.community/g/admins>`__ have the power to edit the Forum's structure, layout, categories, banners, and so on.
 Admins can edit user account profiles, merge duplicate accounts, and have all the capabilities of moderators.
@@ -359,7 +359,7 @@ If you witness harassment, flag (or remove) the inappropriate post.
   * raising the issue to the CST for assistance
 
 
-If you think a user needs to be silenced or suspended, raise the issue with the Lead Community Scientist (see `Admins`_).
+If you think a user needs to be silenced or suspended, raise the issue with the Lead Community Scientist (see `Administrators and Moderators`_).
 
 
 Forum Watchers
@@ -382,13 +382,13 @@ Rapidly review and approve posts from new Forum users.
 
 Moderate the Forum by flagging posts and dealing with flags.
 
-* As described in `Moderators`_.
+* As described in `Category moderators`_.
 
 
 Keep an eye out for new questions posted in old or solved topics.
 
 * If you can answer it right away, just do so.
-* If not, move the reply to a new topic thread (see `Moderators`_).
+* If not, move the reply to a new topic thread (see `Category moderators`_).
 
 
 Review all new Support topics (except those in the broker or IDAC subcategories) and take a swift initial action.
