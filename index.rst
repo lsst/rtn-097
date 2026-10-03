@@ -10,18 +10,18 @@ Guidelines for User Support with the Rubin Community Forum
 Overview
 ========
 
-The Rubin Community Forum (hereafter, the Forum) is based on the Discourse platform and can be found at the URL community.lsst.org.
+The Rubin Community Forum (hereafter, the Forum) is based on the Discourse platform and can be found at the URL rubin.community.
 Much of its content is publicly visible, and anyone may make an account and make posts (i.e., Rubin data rights are not required).
 
 **The Forum’s primary use case is** `User support`_.
 Anyone may ask a question about the Rubin Observatory’s data products, services, and tools; the Support category is dedicated to questions from users.
 
-A traditional, closed help desk won’t scale well to the anticipated 10000 scientists and students.
-This open platform enables self-help (i.e., users can search for similar questions) and crowd-source solutions (anyone may chime in with answers), while also providing the capabilities for Rubin staff to moderate posts and follow-up on unsolved issues.
+A traditional, closed help desk will not scale well to the anticipated 10000 scientists and students.
+The Discourse platform enables self-help (i.e., users can search for similar questions) and crowd-source solutions (anyone may chime in with answers), while also providing the capabilities for Rubin staff to moderate posts and follow-up on unsolved issues.
 The secondary use cases of the Forum are dispersing `News and announcements`_ and enabling `Scientific discussions`_.
 
 This document contains guidance for everyone providing user support via the Forum.
-This applies mainly to Rubin staff, but also representatives of broker and IDAC teams using designated Support sub-categories for their user support.
+This applies mainly to Rubin staff, but also representatives of broker and IDAC teams using designated Support subcategories for their user support.
 Members of the broader Rubin community do not need to read or follow this guidance when posting in the Forum.
 
 This technical note supersedes the Interim Model for Community Support in `DMTN-155 <https://dmtn-155.lsst.io/>`_, and provides additional, practical details on the Model for Community Support in `RTN-006 <https://rtn-006.lsst.io/>`_.
@@ -96,7 +96,7 @@ Inclusive.
 * Use language that is simple and kind.
 * Avoid jargon, acronyms, sarcasm, and jokes.
 * Offensive or exclusionary language is never permitted.
-* See the Forum's `Community Guidelines <https://community.lsst.org/faq>`_.
+* See the Forum's `Community Guidelines <https://www.rubin.community/guidelines>`_.
 
 Referenced.
 
@@ -112,13 +112,13 @@ Practical advice on how to provide user support in a way that is consistent with
 For everyone
 ^^^^^^^^^^^^
 
-Encourage use of the Forum.
+Encourage use of the Forum when questions arise in other venues (e.g., email, Slack).
 
 * Direct users to the Support category.
 
 * Reassure them that all questions are appropriate and welcomed.
 
-  * E.g., *"This is a great question, could you post it as a new topic in the Support category of the Rubin Community Forum at community.lsst.org? We’ll follow-up on it there."*
+  * E.g., *"This is a great question, could you post it as a new topic in the Support category of the Rubin Community Forum at rubin.community? We’ll follow-up on it there."*
 
 
 Provide validated examples that can be marked as the solution.
@@ -127,25 +127,25 @@ Provide validated examples that can be marked as the solution.
 
   * E.g., *"You might want to look in the lsst geom or afw packages"* is not preferred.
 
-* An answer that has been tested and confirmed to work can be marked as the solution by the support provider when it is posted; this is much preferred.
+* An answer that has been tested and confirmed to work can be marked as the solution by the support provider when it is posted, and this is preferred.
 
   * E.g., *"Here is some example code that imports the lsst.geom package and uses the radToDeg function to ..."* (followed by copy-pastable code block) is preferred.
 
 
 Coordinate responses offline and follow up later, when needed.
 
-* Full, validated solutions can take time and collaboration to develop; that’s OK.
+* Full, validated solutions can take time and collaboration to develop, and that is OK.
 
-* Avoid @-mentions in the Forum thread to people who “might know”.
+* Avoid at-mentions in the Forum thread to people who "might know".
 
 * Provide an expected timeline without shutting down further conversation:
 
-  * E.g., *"Myself and the <team> team will work on a solution and report back within a week. In the meantime others are encouraged to chime in on this thread."*
+  * E.g., *"Rubin staff will work on a solution and report back within a week. In the meantime others are encouraged to chime in on this thread."*
 
 
 Be familiar with the Forum’s functionality.
 
-* Review the banner instructions and the topics tagged with "forum-howto".
+* Review the banner links and the Meta category topics tagged with "forum-howto".
 
 * E.g., how to mark solutions, format code and math, and flag posts.
 
@@ -174,11 +174,9 @@ Make your Forum account recognizable as Rubin staff by updating your account pre
 
 * Change your profile picture from the default.
 
-  * It need not be a picture of you.
+  * It need not be a picture of you, just pick something so that your account looks active.
 
-  * The point is to look like an active account.
-
-* Join the `LSST group <https://community.lsst.org/g/LSST>`_ and choose "LSST" as your "Title".
+* Join the `LSST group <https://www.rubin.community/g/LSST>`_ and choose "LSST" as your "Title".
 
   * Or join the group relevant to your department or team.
 
@@ -192,14 +190,14 @@ CST
 
 Make your Forum account recognizable as a Rubin CST member.
 
-* Join the `CST group <https://community.lsst.org/g/CST>`_.
+* Join the `CST group <https://www.rubin.community/g/CST>`_.
 * In account preferences, under "Flair" choose "CST".
 * The helping-hands symbol will appear in the bottom-right corner of your profile picture, identifying you as a CST member.
 
 
 Most CST members will be moderators.
 
-* Review the capabilities of `Moderators`_.
+* Review the capabilities of `Category moderators`_.
 
 
 All CST members will serve in rotation as the weekly Forum Watcher.
@@ -207,20 +205,20 @@ All CST members will serve in rotation as the weekly Forum Watcher.
 * Review the `Forum Watchers`_ responsibilities.
 
 
-Open tickets in the CST’s Issue Resolution epic in Jira, as needed, for follow-up.
+Open tickets in the CST’s Issue Resolution epic in Jira, as needed, for follow-up (see the CST Confluence space for instructions).
 
 
 DM
 **
 
-Join the LSST `Data Management group <https://community.lsst.org/g/LSSTDM>`_.
+Join the LSST `Data Management group <https://www.rubin.community/g/LSSTDM>`_.
 
 * Optionally, set "LSST Data Management" as your "Title" under account preferences.
 
 As of writing, the LSSTDM group did not have a "Flair" option.
 If, in the future, the LSSTDM group owners add a flair, feel free to choose it for your account.
 
-Rubin DM staff are welcome to voluntarily serve as `Moderators`_ or `Forum Watchers`_.
+Rubin DM staff are welcome to voluntarily serve as `Category moderators`_ or `Forum Watchers`_.
 
 If a question or reported issue will take work to resolve, discuss this work with your team lead.
 
@@ -240,8 +238,8 @@ Broker and IDAC teams are responsible to monitor their Support subcategory.
 **The broker and IDAC Support subcategories should not be used for service announcements.**
 
 * Announcements in Support are topics that will never be solved, and so will degrade the metrics.
-* Forum users are not advised to "watch" the Support subcategories (like they are for, e.g., News).
-* Teams may request a new subcategory in Science for service announcements (see, e.g., the `Lasair Blog <https://community.lsst.org/c/sci/lasair-blog/67>`__).
+* Forum users are not advised to "watch" the Support subcategories (like they are for, e.g., News, Science Announcements).
+* Teams may request a new subcategory in Science for service announcements (see, e.g., the `Lasair Blog <https://www.rubin.community/c/sci/lasair-blog/67>`__).
 * Teams may use the Science Announcements subcategory to advertise their services.
 
 It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives of the broker or IDAC team.
@@ -252,15 +250,17 @@ Roles and responsibilities
 
 Rubin staff accounts can have special roles, which come with special responsibilities and powers.
 
-Admins
-^^^^^^
+All members of the Admin and Moderators groups, plus any other groups granted Category Moderator permissions, have the shield icon appear next to their name.
 
-The Forum's `Admins group <https://community.lsst.org/g/admins>`__ is composed of Jonathan Sick, Frossie Economou, and Melissa Graham.
-They are identifiable by the double-shield icons that appear next to their name.
+Administrators and moderators
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Admins have the power to edit the Forum's structure, layout, categories, banners, and so on.
-Admins can edit user account profiles, merge duplicate accounts, and silence and suspend users.
+The Forum's `Admins group <https://www.rubin.community/g/admins>`__ have the power to edit the Forum's structure, layout, categories, banners, and so on.
+Admins can edit user account profiles, merge duplicate accounts, and have all the capabilities of moderators.
+The Forum's `Moderators group <https://www.rubin.community/g/moderators>`__ can edit all topics, and can silence and suspend users.
+Due to the wide-ranging powers the number of Admins and Moderators is kept small.
 
+A full list of the permissions for each `trust level <https://meta.discourse.org/t/discourse-trust-levels-a-detailed-explanation/396792>`__, and for category and Forum moderators, is available on the meta.discourse page `Trust Level Permissions Reference <https://meta.discourse.org/t/trust-level-permissions-reference/224824>`__.
 
 Silencing and suspension
 ************************
@@ -270,7 +270,7 @@ The Lead Community Scientist is the single point of contact on all cases where u
 **Silencing**:
 A silenced user can log in, but cannot post new topics or replies (although they can send private messages).
 
-A user will be silenced if their posts are repeatedly flagged or reported for violating the Forum's `Community Guidelines <https://community.lsst.org/faq>`_, and the Lead Community Scientist issues a warning via private message that if this behavior continues they will be silenced, and the behavior continues anyway.
+A user will be silenced if their posts are repeatedly flagged or reported for violating the Forum's `Community Guidelines <https://www.rubin.community/guidelines>`_, and the Lead Community Scientist issues a warning via private message that if this behavior continues they will be silenced, and the behavior continues anyway.
 
 There is some grey area in interpreting the guidelines, but "Improving the Discussion" and "Keep it Tidy" applies to posts that:
 
@@ -291,11 +291,11 @@ A user will be suspended if, after silencing, the negative behavior continues, t
 Suspensions are permanent.
 
 
+Category moderators
+^^^^^^^^^^^^^^^^^^^
 
-Moderators
-^^^^^^^^^^
-
-The Forum's `Moderators group <https://community.lsst.org/g/moderators>`__ is composed of CST and DM members, and broker and IDAC team representatives.
+The Forum's `CST group <https://www.rubin.community/g/CST>`__ is composed of CST members, and this group is given Category Moderator permissions for the Support category.
+The `Guest Moderators group <https://www.rubin.community/g/Guest_Mods>`__ is composed of broker and IDAC representatives, and this group is given Category Moderator permissions for the broker and IDAC Support subcategories.
 They are identifiable by the shield icon that appears next to their name. 
 
 Moderator accounts have the power to take actions such as:
@@ -310,8 +310,8 @@ Moderator accounts have the power to take actions such as:
 Guidance on flagging and moderation.
 
 * `Discourse platform advice on flags <https://meta.discourse.org/t/discourse-moderation-guide/63116#handling-flags-17>`_
-* `How to be a forum moderator <https://community.lsst.org/t/how-to-be-a-forum-moderator/4700>`_
-* `How and why to flag a post <https://community.lsst.org/t/how-and-why-to-flag-a-post/4699>`_
+* `How to be a forum moderator <https://www.rubin.community/t/how-to-be-a-forum-moderator/4700>`_
+* `How and why to flag a post <https://www.rubin.community/t/how-and-why-to-flag-a-post/4699>`_
 
 
 How to moderate flagged posts.
@@ -326,7 +326,7 @@ How to moderate flagged posts.
 
   * Also delete the user when it is obviously a bot or an advertiser.
 
-* Reject flagged posts that are in violation of the Forum's `Community Guidelines <https://community.lsst.org/faq>`_.
+* Reject flagged posts that are in violation of the Forum's `Community Guidelines <https://www.rubin.community/guidelines>`_.
 
 * If unsure, ask about it in Slack.
 
@@ -359,7 +359,7 @@ If you witness harassment, flag (or remove) the inappropriate post.
   * raising the issue to the CST for assistance
 
 
-If you think a user needs to be silenced or suspended, raise the issue with the Lead Community Scientist (see `Admins`_).
+If you think a user needs to be silenced or suspended, raise the issue with the Lead Community Scientist (see `Administrators and Moderators`_).
 
 
 Forum Watchers
@@ -377,18 +377,18 @@ Rapidly review and approve posts from new Forum users.
 
 * To avoid AI bots, posts from new users need approval.
 * Aim for same-day approvals (within hours during your local workday).
-* For background see `New user permissions and availability of posts <https://community.lsst.org/t/new-user-permissions-and-availability-of-posts/9357>`_.
+* For background see `New user permissions and availability of posts <https://www.rubin.community/t/new-user-permissions-and-availability-of-posts/9357>`_.
 
 
 Moderate the Forum by flagging posts and dealing with flags.
 
-* As described in `Moderators`_.
+* As described in `Category moderators`_.
 
 
 Keep an eye out for new questions posted in old or solved topics.
 
 * If you can answer it right away, just do so.
-* If not, move the reply to a new topic thread (see `Moderators`_).
+* If not, move the reply to a new topic thread (see `Category moderators`_).
 
 
 Review all new Support topics (except those in the broker or IDAC subcategories) and take a swift initial action.
@@ -432,7 +432,7 @@ Review unsolved Support topics from the past month.
 
   * Ensure there is a Jira ticket for unsolved topics.
 
-  * If in a broker/IDAC subcategory, bring the topic to the CST Lead's attention.
+  * If it is in a broker/IDAC subcategory, reach out to the appropriate rep.
 
 
 Be prepared to report in the weekly CST meeting.
@@ -455,7 +455,7 @@ Alternatively, if it is not possible for the user to describe the issue without 
 
 For more guidance on confidential support:
 
-* `How to ask a question confidentially <https://community.lsst.org/t/how-to-ask-a-question-confidentially/8200>`_
+* `How to ask a question confidentially <https://www.rubin.community/t/how-to-ask-a-question-confidentially/8200>`_
 
 
 News and announcements
@@ -489,7 +489,7 @@ Anyone may make a new topic in this category to advertise Rubin-related events.
 * Conferences and workshops not run by Rubin staff.
 * Data or software releases from non-staff developers.
 
-Advice for everyone is provided in `How to advertise in the Forum <https://community.lsst.org/t/how-to-advertise-in-the-forum/8196>`_.
+Advice for everyone is provided in `How to advertise in the Forum <https://www.rubin.community/t/how-to-advertise-in-the-forum/8196>`_.
 
 
 Tips for effective advertising
@@ -497,7 +497,7 @@ Tips for effective advertising
 
 Create a new topic for every new announcement.
 
-* This will prompt notifications for users “tracking” the category.
+* This will prompt notifications for users "tracking" the category.
 * This provides a new thread for comments, questions, etc.
 
 Include the time, date, and year in the topic title.
@@ -511,7 +511,7 @@ Safeguard against Zoom-bombing.
 * Do not do not post Zoom links in the body of the topic.
 * Consider, e.g., a Google form with an automatic email reply with the link.
 
-Post notes and recordings as replies in the thread.
+Post notes and recordings as replies in the topic thread.
 
 * Paste a YouTube link on a new line and the video will automatically embed.
 
@@ -535,7 +535,7 @@ These categories are not monitored by Rubin staff and do not have the "marked so
 Time-domain research announcements
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forum users may propose to use the Discourse API in a sub-category to auto-generate new topics for time-domain phenomena.
+Forum users may propose to use the Discourse API in a subcategory to auto-generate new topics for time-domain phenomena.
 This enables the Forum to be used for public, worldwide discussions about time sensitive follow-up.
 
 New APIs are first implemented on a year-long trial basis to confirm that the number of auto generated new topics is on order a few per day or less (any more is too many for human interaction, which means the Forum is the wrong tool).
@@ -557,7 +557,7 @@ They are not monitored by Rubin staff and do not have the "marked solution" func
 Recommendations for Science Collaborations Chairs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In order to help Science Collaboration chairs make the best use of the Forum, the Rubin Community Science team has prepared a set of optional recommendations in the Forum topic `How to use the Forum as Science Collaboration chair <https://community.lsst.org/t/how-to-use-the-forum-as-science-collaboration-chair/8420>`_.
+In order to help Science Collaboration chairs make the best use of the Forum, the Rubin Community Science team has prepared a set of optional recommendations in the Forum topic `How to use the Forum as Science Collaboration chair <https://www.rubin.community/t/how-to-use-the-forum-as-science-collaboration-chair/8420>`_.
 
 
 
@@ -577,14 +577,12 @@ Tags are useful as a secondary means of organization (after categories).
 
 Profile: The attributes of a user's account, such as username, profile picture, and notification settings.
 To edit profile preferences click on your profile picture in the circle at upper right, then the person icon, then on “Preferences”.
-Alternatively: ``community.lsst.org/u/<username>/preferences/account``.
 
 Groups: Groups identify Rubin staff teams, committees, and Science Collaborations.
 Some categories are only visible to members of certain groups.
-Some groups allow themselves to be @-mentioned or messaged.
+Some groups allow themselves to be at-mentioned or messaged.
 
 Private (direct) messages: To access messages, click on your profile picture at upper right, then the envelope icon to see a list of recent messages.
 Click on the envelope icon again to go to your inbox.
-Alternatively: ``community.lsst.org/u/<username>/messages``.
 
 Watch / subscribe: a setting that enables users to get notifications (in-browser or via email) for all new topics in a given category.
