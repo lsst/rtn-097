@@ -310,8 +310,8 @@ Moderator accounts have the power to take actions such as:
 Guidance on flagging and moderation.
 
 * `Discourse platform advice on flags <https://meta.discourse.org/t/discourse-moderation-guide/63116#handling-flags-17>`_
-* `How to be a forum moderator <https://community.lsst.org/t/how-to-be-a-forum-moderator/4700>`_
-* `How and why to flag a post <https://community.lsst.org/t/how-and-why-to-flag-a-post/4699>`_
+* `How to be a forum moderator <https://www.rubin.community/t/how-to-be-a-forum-moderator/4700>`_
+* `How and why to flag a post <https://www.rubin.community/t/how-and-why-to-flag-a-post/4699>`_
 
 
 How to moderate flagged posts.
