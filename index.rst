@@ -223,26 +223,26 @@ Rubin DM staff are welcome to voluntarily serve as `Category moderators`_ or `Fo
 If a question or reported issue will take work to resolve, discuss this work with your team lead.
 
 
-For brokers and IDACs
-^^^^^^^^^^^^^^^^^^^^^
+For third-party software developers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Broker and IDAC teams are welcome to have subcategories under Support, and to provide their own user support via the Forum.
+Teams outside of Rubin staff who are creating and maintaining Rubin software packages (e.g., brokers, IDACs, and LINCC teams), are welcome to have subcategories under Support and to provide their own user support via the Forum.
 
-Broker and IDAC teams are responsible to monitor their Support subcategory.
+Members of these teams are responsible to monitor their Support subcategory.
 
 * At least one team representative should set themselves to "watching" the category.
 * Rubin staff will not monitor these subcategories.
 * Team reps should keep in mind the goals, metrics, and principles.
 * New topics should get a first response in 24 hours and all topics should get a solution.
 
-**The broker and IDAC Support subcategories should not be used for service announcements.**
+**Subcategories under Support should not be used for service announcements.**
 
 * Announcements in Support are topics that will never be solved, and so will degrade the metrics.
 * Forum users are not advised to "watch" the Support subcategories (like they are for, e.g., News, Science Announcements).
 * Teams may request a new subcategory in Science for service announcements (see, e.g., the `Lasair Blog <https://www.rubin.community/c/sci/lasair-blog/67>`__).
 * Teams may use the Science Announcements subcategory to advertise their services.
 
-It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives of the broker or IDAC team.
+It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives.
 
 
 Roles and responsibilities
@@ -296,7 +296,9 @@ Category moderators
 
 The Forum's `CST group <https://www.rubin.community/g/CST>`__ is composed of CST members, and this group is given Category Moderator permissions for the Support category.
 The `Guest Moderators group <https://www.rubin.community/g/Guest_Mods>`__ is composed of broker and IDAC representatives, and this group is given Category Moderator permissions for the broker and IDAC Support subcategories.
-They are identifiable by the shield icon that appears next to their name. 
+The `LSDB group <https://www.rubin.community/g/LSDB>`__ is composed of members of the LINCC LSDB team, and this group is given Category Moderator permissions for the Support-LSDB subcategory.
+
+Category moderators are identifiable by the shield icon that appears next to their name. 
 
 Moderator accounts have the power to take actions such as:
 
