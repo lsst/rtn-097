@@ -223,34 +223,36 @@ Rubin DM staff are welcome to voluntarily serve as `Category moderators`_ or `Fo
 If a question or reported issue will take work to resolve, discuss this work with your team lead.
 
 
-For brokers and IDACs
-^^^^^^^^^^^^^^^^^^^^^
+For third-party software developers
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Broker and IDAC teams are welcome to have subcategories under Support, and to provide their own user support via the Forum.
+Teams outside of Rubin staff who are creating and maintaining Rubin software packages (e.g., brokers, IDACs, and LINCC teams), are welcome to have subcategories under Support and to provide their own user support via the Forum as `Category moderators`_.
 
-Broker and IDAC teams are responsible to monitor their Support subcategory.
+Members of these teams are responsible to monitor their Support subcategory.
 
 * At least one team representative should set themselves to "watching" the category.
 * Rubin staff will not monitor these subcategories.
 * Team reps should keep in mind the goals, metrics, and principles.
 * New topics should get a first response in 24 hours and all topics should get a solution.
 
-**The broker and IDAC Support subcategories should not be used for service announcements.**
+**Subcategories under Support should not be used for service announcements.**
 
 * Announcements in Support are topics that will never be solved, and so will degrade the metrics.
 * Forum users are not advised to "watch" the Support subcategories (like they are for, e.g., News, Science Announcements).
 * Teams may request a new subcategory in Science for service announcements (see, e.g., the `Lasair Blog <https://www.rubin.community/c/sci/lasair-blog/67>`__).
 * Teams may use the Science Announcements subcategory to advertise their services.
 
-It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives of the broker or IDAC team.
+It is OK to create groups and add relevant titles and flair, so that team members are identifiable as representatives.
 
 
 Roles and responsibilities
 --------------------------
 
 Rubin staff accounts can have special roles, which come with special responsibilities and powers.
-
 All members of the Admin and Moderators groups, plus any other groups granted Category Moderator permissions, have the shield icon appear next to their name.
+
+A full list of the permissions for each `trust level <https://meta.discourse.org/t/discourse-trust-levels-a-detailed-explanation/396792>`__, and for category and Forum moderators, is available in the `Trust Level Permissions Reference <https://meta.discourse.org/t/trust-level-permissions-reference/224824>`__.
+
 
 Administrators and moderators
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -260,7 +262,6 @@ Admins can edit user account profiles, merge duplicate accounts, and have all th
 The Forum's `Moderators group <https://www.rubin.community/g/moderators>`__ can edit all topics, and can silence and suspend users.
 Due to the wide-ranging powers the number of Admins and Moderators is kept small.
 
-A full list of the permissions for each `trust level <https://meta.discourse.org/t/discourse-trust-levels-a-detailed-explanation/396792>`__, and for category and Forum moderators, is available on the meta.discourse page `Trust Level Permissions Reference <https://meta.discourse.org/t/trust-level-permissions-reference/224824>`__.
 
 Silencing and suspension
 ************************
@@ -279,7 +280,6 @@ There is some grey area in interpreting the guidelines, but "Improving the Discu
 * are not Rubin-related (e.g., expound on general astronomy theories)
 * repeatedly or excessively at-mention other users
 
-
 Silencing is temporary, and the timeframe should be set at two weeks.
 Silenced users should be unsilenced after two weeks (provided the violations do not continue via private message, in which case a silenced user might be suspended before being unsilenced).
 
@@ -294,17 +294,20 @@ Suspensions are permanent.
 Category moderators
 ^^^^^^^^^^^^^^^^^^^
 
-The Forum's `CST group <https://www.rubin.community/g/CST>`__ is composed of CST members, and this group is given Category Moderator permissions for the Support category.
-The `Guest Moderators group <https://www.rubin.community/g/Guest_Mods>`__ is composed of broker and IDAC representatives, and this group is given Category Moderator permissions for the broker and IDAC Support subcategories.
-They are identifiable by the shield icon that appears next to their name. 
-
-Moderator accounts have the power to take actions such as:
+Category moderators have the power to take actions such as:
 
 * editing a topic’s title or category
 * moving a threaded post to a different or new topic
 * marking someone else’s post as a topic solution
 * reviewing posts that were flagged automatically or by other users
 * deleting flagged posts and topics, and the associated user
+
+
+Groups granted category moderator status include the following.
+
+* The `CST group <https://www.rubin.community/g/CST>`__ is composed of CST members, and this group is given Category Moderator permissions for the Support category.
+* The `Guest Moderators group <https://www.rubin.community/g/Guest_Mods>`__ is composed of broker and IDAC representatives, and this group is given Category Moderator permissions for the broker and IDAC Support subcategories.
+* The `LSDB group <https://www.rubin.community/g/LSDB>`__ is composed of members of the LINCC LSDB team, and this group is given Category Moderator permissions for the Support-LSDB subcategory.
 
 
 Guidance on flagging and moderation.
